@@ -40,7 +40,7 @@ Exhibición visual enfocada en la experiencia de usuario y el diseño responsivo
 
 ### 📫 Conectemos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-antunez/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueljoseantunez@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueljoseantunez@gmail.com) : **samueljoseantunez@gmail.com**
 
 ### 📊 Estadísticas
 

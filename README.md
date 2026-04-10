@@ -15,6 +15,12 @@ Sistema robusto de monitoreo diseñado bajo los principios de **Clean Architectu
 * **Tech Stack:** Node.js, TypeScript.
 * **Características:** Gestión y envío de logs desde múltiples bases de datos de forma simultánea e integración de servicios de notificación por correo electrónico.
 * **Lo que aprendí:** Implementación de patrones de diseño, separación de capas (Domain, Use Cases, Infrastructure) y manejo de procesos asíncronos complejos.
+  
+* #### 📡 [Node Web REST Server (PostgreSQL)](https://github.com/SamuelAntunez/Node-Web-RestServer-PGSQL)
+API RESTful escalable diseñada para la gestión eficiente de recursos y autenticación de usuarios.
+* **Tech Stack:** Node.js, TypeScript, PostgreSQL, Prisma, Express.
+* **Características:** Implementación de CRUD completo, manejo de relaciones en base de datos, autenticación mediante JWT (JSON Web Tokens) y validación de esquemas.
+* **Lo que aprendí:** Modelado de datos relacionales, despliegue y configuración de bases de datos en la nube, y protección de rutas mediante middlewares personalizados.
 
 #### 🃏 [Blackjack Game](https://github.com/SamuelAntunez/blackjack-vite-js)
 Juego clásico de cartas desarrollado para poner a prueba la lógica de programación.

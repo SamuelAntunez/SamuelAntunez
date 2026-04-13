@@ -22,11 +22,12 @@ API RESTful escalable diseñada para la gestión eficiente de recursos y autenti
 * **Características:** Implementación de CRUD completo, manejo de relaciones en base de datos, autenticación mediante JWT (JSON Web Tokens) y validación de esquemas.
 * **Lo que aprendí:** Modelado de datos relacionales, despliegue y configuración de bases de datos en la nube, y protección de rutas mediante middlewares personalizados.
 
-#### 🃏 [Blackjack Game](https://github.com/SamuelAntunez/blackjack-vite-js)
-Juego clásico de cartas desarrollado para poner a prueba la lógica de programación.
-* **Tech Stack:** JavaScript (ES6+), Vite.
-* **Demo:** [Jugar ahora 🎮](https://samuelantunez.github.io/blackjack-vite-js/)
-* **Lo que aprendí:** Manipulación avanzada del DOM, algoritmos de juego y despliegue rápido utilizando herramientas de construcción modernas como Vite.
+#### 🔍 [Gifs App (Angular & GIPHY API)](https://github.com/SamuelAntunez/Gifs-App)
+Aplicación interactiva para la búsqueda y gestión de GIFs en tiempo real, utilizando la API de GIPHY.
+* **Tech Stack:** Angular (Signals), TypeScript, RxJS, LocalStorage.
+* **Características:** Búsqueda dinámica con scroll infinito, historial de búsquedas persistente mediante LocalStorage y arquitectura basada en servicios con Signals para un estado reactivo eficiente.
+* **Lo que aprendí:** Manejo de **Angular Signals** para la gestión de estado, interoperabilidad entre Observables y Signals (`toSignal`), implementación de lógica de scroll infinito y optimización de peticiones HTTP.
+* * **Demo:** [Explorar GIFs ⚡](https://samuel-gifs-app.netlify.app/#/dashboard/trending)
 
 #### 🖼️ [Galería de Imágenes CSS](https://github.com/SamuelAntunez/Galeria-de-Imagenes-CSS)
 Exhibición visual enfocada en la experiencia de usuario y el diseño responsivo.

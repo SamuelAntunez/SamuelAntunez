@@ -16,7 +16,7 @@ Sistema robusto de monitoreo diseñado bajo los principios de **Clean Architectu
 * **Características:** Gestión y envío de logs desde múltiples bases de datos de forma simultánea e integración de servicios de notificación por correo electrónico.
 * **Lo que aprendí:** Implementación de patrones de diseño, separación de capas (Domain, Use Cases, Infrastructure) y manejo de procesos asíncronos complejos.
   
-* #### 📡 [Node Web REST Server (PostgreSQL)](https://github.com/SamuelAntunez/Node-Web-RestServer-PGSQL)
+#### 📡 [Node Web REST Server (PostgreSQL)](https://github.com/SamuelAntunez/Node-Web-RestServer-PGSQL)
 API RESTful escalable diseñada para la gestión eficiente de recursos y autenticación de usuarios.
 * **Tech Stack:** Node.js, TypeScript, PostgreSQL, Prisma, Express.
 * **Características:** Implementación de CRUD completo, manejo de relaciones en base de datos, autenticación mediante JWT (JSON Web Tokens) y validación de esquemas.

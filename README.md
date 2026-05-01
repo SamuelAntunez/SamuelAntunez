@@ -19,7 +19,7 @@ Visualización geoespacial avanzada utilizando vectores y renderizado de mapas e
 #### 🌍 [Country SPA - Explorador Geográfico](https://github.com/SamuelAntunez/Country-SPA)
 Aplicación avanzada para la consulta de información global, enfocada en la eficiencia de navegación y modularidad.
 * **Tech Stack:** Angular, TypeScript, RxJS, REST Countries API.
-* * **Demo:** [Country SPA](https://samuel-country-spa.netlify.app/#/)
+* **Demo:** [Country SPA](https://samuel-country-spa.netlify.app/#/)
 * **Lo que aprendí:** Gestión de rutas complejas, servicios centralizados para manejo de HTTP y optimización de la experiencia de usuario (UX) en búsquedas en tiempo real.
 
 #### 🖥️ [Aplicación de Monitoreo NOC](https://github.com/SamuelAntunez/Aplicacion-de-Monitoreo-NOC)

@@ -10,30 +10,33 @@ Me apasiona transformar ideas en código y aprender nuevas tecnologías cada dí
 
 ### 🚀 Proyectos Destacados
 
+#### 🗺️ [Mapas Interactivos (MapLibre GL)](https://github.com/SamuelAntunez/Mapa-ng-maplibre-gl)
+Visualización geoespacial avanzada utilizando vectores y renderizado de mapas en tiempo real.
+* **Tech Stack:** Angular, MapLibre GL, TypeScript.
+* **Demo:** [Mapas](https://samuel-map-app.netlify.app/#/fullscreen)
+* **Lo que aprendí:** Manejo de librerías de terceros complejas en Angular y optimización del rendimiento en el renderizado de mapas.
+
+#### 🌍 [Country SPA - Explorador Geográfico](https://github.com/SamuelAntunez/Country-SPA)
+Aplicación avanzada para la consulta de información global, enfocada en la eficiencia de navegación y modularidad.
+* **Tech Stack:** Angular, TypeScript, RxJS, REST Countries API.
+* * **Demo:** [Country SPA](https://samuel-country-spa.netlify.app/#/)
+* **Lo que aprendí:** Gestión de rutas complejas, servicios centralizados para manejo de HTTP y optimización de la experiencia de usuario (UX) en búsquedas en tiempo real.
+
 #### 🖥️ [Aplicación de Monitoreo NOC](https://github.com/SamuelAntunez/Aplicacion-de-Monitoreo-NOC)
-Sistema robusto de monitoreo diseñado bajo los principios de **Clean Architecture**.
+Sistema de monitoreo de infraestructura diseñado bajo los principios de **Clean Architecture**.
 * **Tech Stack:** Node.js, TypeScript.
-* **Características:** Gestión y envío de logs desde múltiples bases de datos de forma simultánea e integración de servicios de notificación por correo electrónico.
-* **Lo que aprendí:** Implementación de patrones de diseño, separación de capas (Domain, Use Cases, Infrastructure) y manejo de procesos asíncronos complejos.
-  
+* **Lo que aprendí:** Implementación de patrones de diseño, separación estricta de capas (Domain, Use Cases, Infrastructure) y manejo de procesos asíncronos para logs multiplataforma.
+
 #### 📡 [Node Web REST Server (PostgreSQL)](https://github.com/SamuelAntunez/Node-Web-RestServer-PGSQL)
-API RESTful escalable diseñada para la gestión eficiente de recursos y autenticación de usuarios.
+API RESTful escalable diseñada para la gestión eficiente de recursos y seguridad.
 * **Tech Stack:** Node.js, TypeScript, PostgreSQL, Prisma, Express.
-* **Características:** Implementación de CRUD completo, manejo de relaciones en base de datos, autenticación mediante JWT (JSON Web Tokens) y validación de esquemas.
-* **Lo que aprendí:** Modelado de datos relacionales, despliegue y configuración de bases de datos en la nube, y protección de rutas mediante middlewares personalizados.
+* **Lo que aprendí:** Autenticación robusta con JWT, modelado relacional y protección de endpoints mediante middlewares personalizados.
 
-#### 🔍 [Gifs App (Angular & GIPHY API)](https://github.com/SamuelAntunez/Gifs-App)
-Aplicación interactiva para la búsqueda y gestión de GIFs en tiempo real, utilizando la API de GIPHY.
-* **Tech Stack:** Angular (Signals), TypeScript, RxJS, LocalStorage.
-* **Características:** Búsqueda dinámica con scroll infinito, historial de búsquedas persistente mediante LocalStorage y arquitectura basada en servicios con Signals para un estado reactivo eficiente.
-* **Lo que aprendí:** Manejo de **Angular Signals** para la gestión de estado, interoperabilidad entre Observables y Signals (`toSignal`), implementación de lógica de scroll infinito y optimización de peticiones HTTP.
-* * **Demo:** [Explorar GIFs ⚡](https://samuel-gifs-app.netlify.app/#/dashboard/trending)
-
-#### 🖼️ [Galería de Imágenes CSS](https://github.com/SamuelAntunez/Galeria-de-Imagenes-CSS)
-Exhibición visual enfocada en la experiencia de usuario y el diseño responsivo.
-* **Tech Stack:** HTML5, CSS3 (Animaciones puras).
-* **Demo:** [Ver Galería ✨](https://samuelantunez.github.io/Galeria-de-Imagenes-CSS/)
-* **Lo que aprendí:** Creación de animaciones fluidas sin librerías externas, maquetación avanzada y optimización estética.
+#### 🔍 [Gifs App - Estado Reactivo](https://github.com/SamuelAntunez/Gifs-App)
+Aplicación interactiva que utiliza las últimas innovaciones de Angular para la gestión de estado.
+* **Tech Stack:** Angular (Signals), RxJS, LocalStorage.
+* **Demo:** [Explorar GIFs](https://samuel-gifs-app.netlify.app/#/dashboard/trending)
+* **Lo que aprendí:** Implementación de **Angular Signals** para una reactividad eficiente y optimización de flujos asíncronos con RxJS.
 
 ### 🛠️ Tecnologías y Herramientas
 

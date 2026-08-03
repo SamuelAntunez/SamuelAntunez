@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
 # ¡Hola! Soy Samuel Antunez 👋
 
 **Ingeniero de Sistemas** y **Desarrollador Full Stack Junior**, especializado en el ecosistema JavaScript/TypeScript. Construyo apps web escalables con **Angular** y **Node.js** aplicando Clean Code y Clean Architecture.

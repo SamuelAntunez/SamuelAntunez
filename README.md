@@ -45,6 +45,8 @@ Proyectos de práctica: consumo de APIs públicas, Signals, scroll infinito, RES
 
 **Aprendiendo:** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-tr=white)
 
+**IA:** ![Claude Code](https://img.shields.io/badge/claude%20code-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white) ![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logoColor=white)
+
 ### 📫 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-antunez/)

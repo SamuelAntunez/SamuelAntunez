@@ -4,7 +4,7 @@
 
 # ¡Hola! Soy Samuel Antunez 👋
 
-**Ingeniero de Sistemas** y **Desarrollador Full Stack Junior**, especializado en el ecosistema JavaScript/TypeScript. Construyo apps web escalables con **Angular** y **Node.js** aplicando Clean Code y Clean Architecture. Actualmente en **Administradora Beraca, C.A.** desarrollando su plataforma inmobiliaria corporativa.
+**Ingeniero de Sistemas** y **Desarrollador Full Stack Junior**, especializado en el ecosistema JavaScript/TypeScript. Construyo apps web escalables con **Angular** y **Node.js** aplicando Clean Code y Clean Architecture.
 
 ### 🚀 Proyectos Destacados
 
